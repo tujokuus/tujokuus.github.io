@@ -1,11 +1,15 @@
-title: John Doe # your name (or website title) here
+title: Tuomas Kuusisto
 logo: "/images/logo.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Computer Science student at the University of Jyvaskyla with a focus on data engineering, machine learning, and analytics.
   <br><br>
-  Second description 
+  Experience with Python, SQL, Databricks, Apache Spark, TensorFlow, and data pipeline development.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  Helsinki, Finland
+  <br><br>
+  <a href="mailto:tuokuu99@gmail.com">tuokuu99@gmail.com</a>
+  <br><br>
+  <a href="https://www.linkedin.com/in/tuomas-kuusisto-0503b8200/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
