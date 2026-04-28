@@ -8,7 +8,7 @@ A selection of my work in data engineering, analytics, and machine learning.
 
 ### Cense Analytics - Machine Learning & Data Science Intern
 
-Built and maintained ETL pipelines in Databricks Lakehouse using Python, SQL, and Apache Spark. Developed CNN-based machine learning models for image analysis and contributed to data preprocessing, validation, testing, and visualization workflows.
+Worked on building and maintaining data pipelines and machine learning solutions in a Databricks environment using Python, SQL, and Apache Spark. Focused on data quality and reliability by identifying inconsistencies, tracing root causes, and improving data structures for downstream use. Built image-based machine learning solutions end-to-end, including data preprocessing, feature engineering, model development, and validation, achieving strong results (details confidential).
 
 ---
 
