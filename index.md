@@ -1,59 +1,30 @@
 ## Portfolio
 
-Aspiring data engineer and machine learning professional with hands-on experience in ETL pipelines, analytics workflows, and model development.
+A selection of my work in data engineering, analytics, and machine learning.
 
 ---
 
-### About
+### Experience
 
-I am a Computer Science student at the University of Jyvaskyla with a strong interest in data engineering, machine learning, and statistics. My background combines academic work in software engineering and databases with practical project and internship experience in analytics and ML.
+### Cense Analytics - Machine Learning & Data Science Intern
 
----
-
-### Experience Highlights
-
-**Cense Analytics - Machine Learning & Data Science Intern**  
-Built and maintained ETL pipelines in Databricks Lakehouse using Python, SQL, and Apache Spark. Developed CNN-based models for image analysis and worked on data preprocessing, validation, testing, and visualization workflows.
-
-**Cense Analytics - Summer Employee**  
-Worked on operational support tasks including soil sampling, trade fair promotion, customer meetings, and IT support.
+Built and maintained ETL pipelines in Databricks Lakehouse using Python, SQL, and Apache Spark. Developed CNN-based machine learning models for image analysis and contributed to data preprocessing, validation, testing, and visualization workflows.
 
 ---
 
-### Selected Projects
+### Projects
 
 [Air Strikes on Ukraine Analysis Dashboard](https://REPLACE_WITH_YOUR_STREAMLIT_LINK/)
-Analytics dashboard built with Streamlit, Python, SQL, and DuckDB for interactive monitoring and analysis of Russian air strikes against Ukraine.
+Interactive analytics dashboard built with Streamlit, Python, SQL, and DuckDB for monitoring and analyzing Russian air strikes against Ukraine. The project includes data transformation workflows, analytical marts, filtering, time-based analysis, and visual exploration of strike patterns.
 
-[Project Details Page](/sample_page)
-Use this page for a longer case study, project write-up, or technical walkthrough.
+[Data Pipeline Project Template](/project_data_pipeline)
+Use this page for a data engineering project focused on ingestion, transformation, orchestration, and warehouse or lakehouse design.
 
-[GitHub Profile](https://github.com/tujokuus)
-Add your repositories, experiments, and code samples here.
+[Machine Learning Project Template](/project_machine_learning)
+Use this page for a machine learning project focused on modeling, evaluation, feature engineering, and deployment.
 
----
-
-### Education
-
-**University of Jyvaskyla**  
-Bachelor's and Master's Programme in Computer Science  
-Minor studies in Statistics and Mathematics
-
----
-
-### Skills
-
-- Python, SQL, Databricks, Apache Spark
-- TensorFlow, OpenCV, NumPy, Pandas, Matplotlib
-- Java, C#, JavaScript, HTML, CSS, React
-- Git, Pytest, Robot Framework, Streamlit
-
----
-
-### Volunteer Experience
-
-- Sports Coordinator, Linkki ry
-- Event Team Member, Linkki ry
+[Analytics Project Template](/project_analytics)
+Use this page for an analytics or dashboard project focused on metrics, visualizations, and business or operational insights.
 
 ---
 
