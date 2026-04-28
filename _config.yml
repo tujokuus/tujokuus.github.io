@@ -7,8 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://github.com/tujokuus">GitHub</a>
   </div>
   <div class="sidebar-copy">
-  <p>I am pursuing a Bachelor's and Master's degree in Computer Science at the University of Jyvaskyla, with minor studies in Statistics and Mathematics.</p>
-  <p>I am currently a Machine Learning and Data Science Intern at Cense Analytics with a focus on data engineering, analytics, and machine learning for image data.</p>
+  <p>I am finishing my Bachelor's degree and pursuing a Master's degree in Computer Science at the University of Jyvaskyla, with minor studies in Statistics and Mathematics.</p>
+  <p>I am currently a Machine Learning and Data Science Intern at Cense Analytics, with a focus on analytics, data engineering, and machine learning for soil measurement analysis.</p>
   </div>
   
 remote_theme: pages-themes/minimal@v0.2.0
