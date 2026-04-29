@@ -82,7 +82,7 @@ In this notebook project, I built an end-to-end stacked machine learning workflo
 
 <div class="project-gallery-single">
   <img src="images/3d.png" alt="3D class separation view" />
-  <p class="project-gallery-caption">3D projection view for class separation analysis.</p>
+  <p class="project-gallery-caption">Interactive 3D projection view for class separation analysis.</p>
 </div>
 
 #### Korisliiga Winners App
