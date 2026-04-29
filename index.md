@@ -25,31 +25,65 @@ Worked on building and maintaining data pipelines and machine learning solutions
 
 In this MVP-stage project, I developed an end-to-end data analytics solution for exploring reported missile and UAV strike activity in Ukraine. The project combines data analysis, data engineering, and dashboard development: I collected and processed raw CSV data in Python with pandas, cleaned and standardized key fields such as dates, weapon references, and target areas, and transformed the data into a bronze, silver, and gold architecture. I then used DuckDB and SQL to build analytics-ready marts and views, and created an interactive Streamlit dashboard with Plotly and PyDeck to visualize trends over time, weapon activity, regional patterns, and air defense success rates.
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:16px;">
-  <div style="flex:1 1 320px;">
-    <img src="images/Screenshot_overview1_b.png" alt="Dashboard overview" />
-    <p style="font-size:12px; margin-top:6px; text-align:center;">Dashboard overview</p>
+<div class="project-gallery-pair">
+  <div class="project-gallery-grid">
+    <div class="project-gallery-item">
+      <img src="images/Screenshot_overview1_b.png" alt="Dashboard overview" />
+    </div>
+    <div class="project-gallery-item">
+      <img src="images/Screenshot_interactivemap1b.png" alt="Interactive map view" />
+    </div>
   </div>
-  <div style="flex:1 1 320px;">
-    <img src="images/Screenshot_interactivemap1b.png" alt="Interactive map view" />
-    <p style="font-size:12px; margin-top:6px; text-align:center;">Interactive map and regional analysis</p>
-  </div>
+  <p class="project-gallery-caption">Dashboard overview and interactive regional analysis.</p>
 </div>
 
-<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:8px;">
-  <div style="margin-top:8px;">
-    <img src="images/Screenshot_periodoverperiod.png" alt="Period-over-period comparison" />
-    <p style="font-size:12px; margin-top:6px; text-align:center;">Time period comparison</p>
+<div class="project-gallery-pair">
+  <div class="project-gallery-grid">
+    <div class="project-gallery-item">
+      <img src="images/Screenshot_periodoverperiod.png" alt="Period-over-period comparison" />
+    </div>
+    <div class="project-gallery-item">
+      <img src="images/Screenshot_weaponshareb.png" alt="Weapon share comparison" />
+    </div>
   </div>
-  <div style="flex:1 1 320px;">
-    <img src="images/Screenshot_weaponshareb.png" alt="Weapon share comparison" />
-    <p style="font-size:12px; margin-top:6px; text-align:center;">Weapon share comparison</p>
-  </div>
+  <p class="project-gallery-caption">Time period comparison and weapon share analysis.</p>
 </div>
 
 #### Predicting Irrigation Need - Kaggle competition
 
+[![Kaggle EDA](https://img.shields.io/badge/Kaggle-EDA-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/kuusistotuomas/irrigation-need-eda)
+[![Kaggle Modeling](https://img.shields.io/badge/Kaggle-Modeling-0f172a?logo=kaggle&logoColor=white)](https://www.kaggle.com/code/kuusistotuomas/highstacking)
+
 In this notebook project, I built an end-to-end stacked machine learning workflow for the Kaggle Playground Series S6E4 irrigation need prediction task. The work combines exploratory data analysis, gradient boosting model development, and ensemble optimization: I profiled the raw tabular data in Python with pandas, compared feature distributions and class balance with interactive visual analysis, trained tuned XGBoost and CatBoost models, and generated out-of-fold probability predictions for model blending. I then optimized class-specific post-processing for the rare High irrigation class, trained a dedicated binary meta-model on top of the blended probabilities, and evaluated the full stack with cross-validation before exporting competition-ready submission files.
+
+<div class="project-gallery-pair">
+  <div class="project-gallery-grid">
+    <div class="project-gallery-item">
+      <img src="images/numerical_feature_dist.png" alt="Numerical feature distributions" />
+    </div>
+    <div class="project-gallery-item">
+      <img src="images/target_call_composition.png" alt="Target class composition" />
+    </div>
+  </div>
+  <p class="project-gallery-caption">Exploratory views for feature distributions and target class composition.</p>
+</div>
+
+<div class="project-gallery-pair">
+  <div class="project-gallery-grid">
+    <div class="project-gallery-item">
+      <img src="images/Violin_plots.png" alt="Violin plots" />
+    </div>
+    <div class="project-gallery-item">
+      <img src="images/Feature importance.png" alt="Feature importance" />
+    </div>
+  </div>
+  <p class="project-gallery-caption">Feature behavior and model interpretation views.</p>
+</div>
+
+<div class="project-gallery-single">
+  <img src="images/3d.png" alt="3D class separation view" />
+  <p class="project-gallery-caption">3D projection view for class separation analysis.</p>
+</div>
 
 #### Korisliiga Winners App
 
@@ -58,4 +92,3 @@ In this notebook project, I built an end-to-end stacked machine learning workflo
 This is a small web application for browsing Korisliiga championship winners. I included it as a lightweight side project alongside my main data and analytics work.
 
 ---
-
