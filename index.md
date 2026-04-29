@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Portfolio
 
 A selection of my work in data engineering, analytics, and machine learning.

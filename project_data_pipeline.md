@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Data Pipeline Project Title
 
 **Project overview:** Write a short summary of the problem, the dataset, and the business or technical goal.

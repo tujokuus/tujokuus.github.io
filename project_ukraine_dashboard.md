@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Air Strikes on Ukraine Analysis Dashboard
 
 [![Open Dashboard](https://img.shields.io/badge/Streamlit-Open%20Dashboard-ff4b4b?logo=streamlit&logoColor=white)](https://strikes-on-ukraine-analysis.streamlit.app/)

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Analytics Project Title
 
 **Project overview:** Write a short summary of the question, the stakeholders, and the type of analysis or dashboard you built.

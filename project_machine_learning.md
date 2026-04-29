@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Machine Learning Project Title
 
 **Project overview:** Write a short summary of the prediction or classification task and what the model was meant to improve.
