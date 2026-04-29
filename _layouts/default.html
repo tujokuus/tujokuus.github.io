@@ -33,6 +33,54 @@
          margin: 0 0 10px;
          text-align: left;
       }
+
+      .project-gallery-pair {
+         width: calc(100% + 64px);
+         max-width: none;
+         margin: 16px 0 10px -32px;
+      }
+
+      .project-gallery-grid {
+         display: flex;
+         flex-wrap: wrap;
+         gap: 16px;
+      }
+
+      .project-gallery-grid img {
+         display: block;
+         width: 100%;
+         height: auto;
+      }
+
+      .project-gallery-item {
+         flex: 1 1 320px;
+      }
+
+      .project-gallery-caption {
+         margin: 8px 0 0;
+         font-size: 12px;
+         text-align: center;
+      }
+
+      .project-gallery-single {
+         width: calc(100% + 64px);
+         max-width: none;
+         margin: 12px 0 10px -32px;
+      }
+
+      .project-gallery-single img {
+         display: block;
+         width: 100%;
+         height: auto;
+      }
+
+      @media screen and (max-width: 960px) {
+         .project-gallery-pair,
+         .project-gallery-single {
+            width: 100%;
+            margin-left: 0;
+         }
+      }
    </style>
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
