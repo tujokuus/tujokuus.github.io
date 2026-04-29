@@ -16,7 +16,7 @@ Worked on building and maintaining data pipelines and machine learning solutions
 
 ---
 
-### Projects
+### Projects & Data Science
 
 #### Air Strikes on Ukraine Analysis Dashboard
 
@@ -57,4 +57,3 @@ This is a small web application for browsing Korisliiga championship winners. I 
 
 ---
 
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
