@@ -14,8 +14,8 @@ Worked on building and maintaining data pipelines and machine learning solutions
 
 ### Projects
 
-[Air Strikes on Ukraine Analysis Dashboard](https://REPLACE_WITH_YOUR_STREAMLIT_LINK/)
-Interactive analytics dashboard built with Streamlit, Python, SQL, and DuckDB for monitoring and analyzing Russian air strikes against Ukraine. The project includes data transformation workflows, analytical marts, filtering, time-based analysis, and visual exploration of strike patterns.
+[Air Strikes on Ukraine Analysis Dashboard](/project_ukraine_dashboard)
+Interactive analytics dashboard built with Streamlit, Python, SQL, and DuckDB for monitoring and analyzing Russian air strikes against Ukraine. Open the project page for the live dashboard, GitHub repository, screenshots, and a fuller breakdown of the work.
 
 [Data Pipeline Project Template](/project_data_pipeline)
 Use this page for a data engineering project focused on ingestion, transformation, orchestration, and warehouse or lakehouse design.
