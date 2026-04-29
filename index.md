@@ -51,7 +51,7 @@ In this MVP-stage project, I developed an end-to-end data analytics solution for
 
 <div style="margin-top:8px;">
   <img src="images/Screenshot_periodoverperiod.png" alt="Period-over-period comparison" />
-  <p style="font-size:12px; margin-top:6px; text-align:center;">Period-over-period comparison</p>
+  <p style="font-size:12px; margin-top:6px; text-align:center;">Time period comparison</p>
 </div>
 
 #### Korisliiga Winners App
