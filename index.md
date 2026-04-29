@@ -25,7 +25,7 @@ Worked on building and maintaining data pipelines and machine learning solutions
 
 In this MVP-stage project, I developed an end-to-end data analytics solution for exploring reported missile and UAV strike activity in Ukraine. The project combines data analysis, data engineering, and dashboard development: I collected and processed raw CSV data in Python with pandas, cleaned and standardized key fields such as dates, weapon references, and target areas, and transformed the data into a bronze, silver, and gold architecture. I then used DuckDB and SQL to build analytics-ready marts and views, and created an interactive Streamlit dashboard with Plotly and PyDeck to visualize trends over time, weapon activity, regional patterns, and air defense success rates.
 
-<div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:16px;">
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:16px;">
   <div style="flex:1 1 320px;">
     <img src="images/Screenshot_overview1_b.png" alt="Dashboard overview" />
     <p style="font-size:12px; margin-top:6px; text-align:center;">Dashboard overview</p>
@@ -36,7 +36,7 @@ In this MVP-stage project, I developed an end-to-end data analytics solution for
   </div>
 </div>
 
-<div style="display:flex; flex-wrap:wrap; gap:16px; margin-top:8px;">
+<div style="display:flex; flex-wrap:wrap; gap:10px; margin-top:8px;">
   <div style="margin-top:8px;">
     <img src="images/Screenshot_periodoverperiod.png" alt="Period-over-period comparison" />
     <p style="font-size:12px; margin-top:6px; text-align:center;">Time period comparison</p>
