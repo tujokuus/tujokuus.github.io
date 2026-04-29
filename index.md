@@ -59,31 +59,12 @@ In this notebook project, I built an end-to-end stacked machine learning workflo
 <div class="project-gallery-pair">
   <div class="project-gallery-grid">
     <div class="project-gallery-item project-gallery-item--fixed">
-      <img src="images/numerical_feature_dist.png" alt="Numerical feature distributions" />
-    </div>
-    <div class="project-gallery-item project-gallery-item--fixed">
-      <img src="images/target_call_composition.png" alt="Target class composition" />
+      <img src="images/Violin_plots.png" alt="Numerical feature distributions" />
     </div>
   </div>
-  <p class="project-gallery-caption">Exploratory views for feature distributions and target class composition.</p>
+  <p class="project-gallery-caption">Exploratory views for feature distributions and violin plots and interactive 3D projection.</p>
 </div>
 
-<div class="project-gallery-pair">
-  <div class="project-gallery-grid">
-    <div class="project-gallery-item project-gallery-item--fixed">
-      <img src="images/Violin_plots.png" alt="Violin plots" />
-    </div>
-    <div class="project-gallery-item project-gallery-item--fixed">
-      <img src="images/Feature importance.png" alt="Feature importance" />
-    </div>
-  </div>
-  <p class="project-gallery-caption">Feature behavior and model interpretation views.</p>
-</div>
-
-<div class="project-gallery-single">
-  <img src="images/3d.png" alt="3D class separation view" />
-  <p class="project-gallery-caption">Interactive 3D projection view for class separation analysis.</p>
-</div>
 
 #### Korisliiga Winners App
 
