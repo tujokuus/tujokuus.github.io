@@ -29,6 +29,8 @@ In this MVP-stage project, I developed an end-to-end data analytics solution for
   <div style="flex:1 1 320px;">
     <img src="images/Screenshot_overview1_b.png" alt="Dashboard overview" />
     <p style="font-size:12px; margin-top:6px; text-align:center;">Dashboard overview</p>
+    <img src="images/Screenshot_interactivemap1b.png" alt="Interactive map view" />
+    <p style="font-size:12px; margin-top:6px; text-align:center;">Interactive map and regional analysis</p>
   </div>
   <div style="flex:1 1 320px;">
     <img src="images/Screenshot_interactivemap1b.png" alt="Interactive map view" />
