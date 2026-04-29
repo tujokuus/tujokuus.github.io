@@ -17,6 +17,22 @@
    {% seo %}
    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
    <style>
+      .wrapper {
+         width: 1080px;
+      }
+
+      header {
+         width: 280px;
+      }
+
+      section {
+         width: 740px;
+      }
+
+      footer {
+         width: 280px;
+      }
+
       header img {
          margin-bottom: 10px;
       }
@@ -49,11 +65,17 @@
       .project-gallery-grid img {
          display: block;
          width: 100%;
-         height: auto;
+         height: 100%;
+         object-fit: cover;
       }
 
       .project-gallery-item {
          min-width: 0;
+      }
+
+      .project-gallery-item--fixed {
+         aspect-ratio: 16 / 10;
+         overflow: hidden;
       }
 
       .project-gallery-caption {
@@ -75,6 +97,13 @@
       }
 
       @media screen and (max-width: 960px) {
+         .wrapper,
+         header,
+         section,
+         footer {
+            width: auto;
+         }
+
          .project-gallery-pair,
          .project-gallery-single {
             width: 100%;

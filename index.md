@@ -27,10 +27,10 @@ In this MVP-stage project, I developed an end-to-end data analytics solution for
 
 <div class="project-gallery-pair">
   <div class="project-gallery-grid">
-    <div class="project-gallery-item">
+    <div class="project-gallery-item project-gallery-item--fixed">
       <img src="images/Screenshot_overview1_b.png" alt="Dashboard overview" />
     </div>
-    <div class="project-gallery-item">
+    <div class="project-gallery-item project-gallery-item--fixed">
       <img src="images/Screenshot_interactivemap1b.png" alt="Interactive map view" />
     </div>
   </div>
@@ -39,10 +39,10 @@ In this MVP-stage project, I developed an end-to-end data analytics solution for
 
 <div class="project-gallery-pair">
   <div class="project-gallery-grid">
-    <div class="project-gallery-item">
+    <div class="project-gallery-item project-gallery-item--fixed">
       <img src="images/Screenshot_periodoverperiod.png" alt="Period-over-period comparison" />
     </div>
-    <div class="project-gallery-item">
+    <div class="project-gallery-item project-gallery-item--fixed">
       <img src="images/Screenshot_weaponshareb.png" alt="Weapon share comparison" />
     </div>
   </div>
@@ -58,10 +58,10 @@ In this notebook project, I built an end-to-end stacked machine learning workflo
 
 <div class="project-gallery-pair">
   <div class="project-gallery-grid">
-    <div class="project-gallery-item">
+    <div class="project-gallery-item project-gallery-item--fixed">
       <img src="images/numerical_feature_dist.png" alt="Numerical feature distributions" />
     </div>
-    <div class="project-gallery-item">
+    <div class="project-gallery-item project-gallery-item--fixed">
       <img src="images/target_call_composition.png" alt="Target class composition" />
     </div>
   </div>
@@ -70,10 +70,10 @@ In this notebook project, I built an end-to-end stacked machine learning workflo
 
 <div class="project-gallery-pair">
   <div class="project-gallery-grid">
-    <div class="project-gallery-item">
+    <div class="project-gallery-item project-gallery-item--fixed">
       <img src="images/Violin_plots.png" alt="Violin plots" />
     </div>
-    <div class="project-gallery-item">
+    <div class="project-gallery-item project-gallery-item--fixed">
       <img src="images/Feature importance.png" alt="Feature importance" />
     </div>
   </div>
