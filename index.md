@@ -56,7 +56,7 @@ In this MVP-stage project, I developed an end-to-end data analytics solution for
 
 In this notebook project, I built an end-to-end stacked machine learning workflow for the Kaggle Playground Series S6E4 irrigation need prediction task. The work combines exploratory data analysis, gradient boosting model development, and ensemble optimization: I profiled the raw tabular data in Python with pandas, compared feature distributions and class balance with interactive visual analysis, trained tuned XGBoost and CatBoost models, and generated out-of-fold probability predictions for model blending. I then optimized class-specific post-processing for the rare High irrigation class, trained a dedicated binary meta-model on top of the blended probabilities, and evaluated the full stack with cross-validation before exporting competition-ready submission files.
 
-<div class="project-gallery-single" style="width: calc(60% + 0px); margin-left: 0px;">
+<div class="project-gallery-single" style="width: calc(60% + 0px); margin-left: 120px;">
   <img src="images/Violin_plots.png" alt="Numerical feature distributions" />
   <p class="project-gallery-caption">Exploratory views for feature distributions and violin plots and interactive 3D projection.</p>
 </div>
