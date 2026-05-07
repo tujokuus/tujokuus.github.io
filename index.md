@@ -62,10 +62,10 @@ In this notebook project, I built an end-to-end stacked machine learning workflo
 </div>
 
 
-#### Korisliiga Winners App
+#### Korisliiga Pickems App
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-24292e?logo=github&logoColor=white)](https://github.com/tujokuus/korisliiga-winners-app)
 
-This is a small web application for browsing Korisliiga championship winners. I included it as a lightweight side project alongside my main data and analytics work.
+This is a small web application for selecting winning teams in Korisliiga. I included it as a lightweight side project alongside my main data and analytics work.
 
 ---
