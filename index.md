@@ -67,6 +67,8 @@ In this notebook project, I built an end-to-end stacked machine learning workflo
 
 #### European Vehicle Price Prediction
 
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-24292e?logo=github&logoColor=white)](https://github.com/tujokuus/car-prize-prediction)
+
 In this notebook project, I built an end-to-end machine learning workflow for predicting vehicle prices from more than 118,000 European car listings. The work combines exploratory data analysis, data-quality validation, feature engineering, model comparison, and error analysis. I examined price distributions, missing values, country-level market differences, taxation-related fields, and suspicious listings before removing identified test records, placeholder prices, and pricing errors. I engineered vehicle usage, equipment, power-to-weight, body-type, and trim-related features, then used permutation importance to identify the strongest predictors and compared Extra Trees, Random Forest, and XGBoost models across complete and reduced feature sets. An equal-weight ensemble of the three models achieved the best held-out test performance, with a mean absolute error of EUR 4,301, a mean absolute percentage error of 8.7%, a Germany-specific MAE of EUR 4,163, and 91.3% of predictions falling within 20% of the advertised price. I also evaluated a specialized model trained without vehicles priced above EUR 200,000, but it improved MAE by only EUR 27 on the shared lower-price test subset, indicating that the full-range ensemble offered the best balance of accuracy, coverage, and simplicity.
 
 #### Giveaway Intelligence Agent
