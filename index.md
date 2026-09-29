@@ -77,6 +77,12 @@ In this notebook project, I built an end-to-end machine learning workflow for pr
 
 In this project, I built a privacy-first local AI agent for discovering and analyzing online giveaways. It combines a Manifest V3 Chrome extension, a localhost FastAPI backend, SQLite, and Ollama with a local Qwen 3.5 model. The extension captures visible page content, form structure, rules, privacy disclosures, and dynamically opened dialogs from a dedicated Chrome profile, while a deterministic Python pipeline groups, deduplicates, and limits evidence before LLM analysis. Model responses are constrained to structured JSON and validated with Pydantic, with source references retained for traceability. The system keeps personal data outside the LLM, treats webpage content as untrusted, and deliberately excludes form submission, arbitrary browser actions, and CAPTCHA or access-control bypassing.
 
+#### Local AI Lecture & Meeting Assistant
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-24292e?logo=github&logoColor=white)](https://github.com/tujokuus/local-voice-agent)
+
+In this project, I built a local AI application for transcribing recordings, generating lecture and meeting notes, and answering questions about their content. The project combines Python, faster-whisper speech recognition, SQLite, and local Qwen models served through Ollama. I developed a custom agent workflow alongside a PydanticAI implementation, using Pydantic to validate structured model outputs and timestamped transcript segments to support traceable answers. For longer recordings, I implemented chronological chunking and intermediate summaries that are combined into final notes. I evaluated the system through automated tests, repeatable model and agent comparisons, and reviews of answer accuracy, note quality, and processing time. In a comparison using a roughly 50-minute MIT OpenCourseWare psychology lecture, Whisper medium.en achieved a word error rate of 6.55% against the published captions, compared with 7.15% for small.en, and corrected several meaning-changing transcription errors.
+
 
 #### Korisliiga Pickems App
 
