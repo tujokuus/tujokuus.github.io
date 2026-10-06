@@ -12,7 +12,7 @@ A selection of my work in data engineering, analytics, machine learning and AI a
 
 ### Cense Analytics - Junior Data Scientist
 
-Worked on building and maintaining data pipelines and machine learning solutions in a Databricks environment using Python, SQL, and Apache Spark. Focused on data quality and reliability by identifying inconsistencies, tracing root causes, and improving data structures for downstream use. Built image-based machine learning solutions end-to-end, including data preprocessing, feature engineering, model development, and validation, achieving strong results (details confidential).
+At Cense Analytics, I work on R&D projects involving machine learning, computer vision, and multimodal measurement data. I develop and evaluate deep learning and machine learning models using Python and TensorFlow, including CNN-based image models and multimodal models combining LIBS spectroscopy with microscope images. My work includes preprocessing, feature engineering, model validation, hyperparameter optimization, and error analysis. Alongside model development, I use SQL, PySpark, and Databricks for data processing and pipeline development.
 
 > "Tuomas demonstrated strong self-driven ambition and curiosity in advancing predictive regression modeling using our multi-source datasets."
 >
