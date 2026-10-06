@@ -90,6 +90,10 @@ In this project, I built a privacy-first local AI agent for discovering and anal
 
 In this project, I built a local AI application for transcribing recordings, generating lecture and meeting notes, and answering questions about their content. The project combines Python, faster-whisper speech recognition, SQLite, and local Qwen models served through Ollama. I developed a custom agent workflow alongside a PydanticAI implementation, using Pydantic to validate structured model outputs and timestamped transcript segments to support traceable answers. For longer recordings, I implemented chronological chunking and intermediate summaries that are combined into final notes. I evaluated the system through automated tests, repeatable model and agent comparisons, and reviews of answer accuracy, note quality, and processing time. In a comparison using a roughly 50-minute MIT OpenCourseWare psychology lecture, Whisper medium.en achieved a word error rate of 6.55% against the published captions, compared with 7.15% for small.en, and corrected several meaning-changing transcription errors.
 
+#### Korisliiga Fantasy Manager Data Analysis
+
+In this project, I built a scouting tool for assembling a Korisliiga fantasy-manager roster. Player data came from RealGM, Bart Torvik, the official Finnish results service, and public manager prices, each with different ids, club names, and stat definitions. In Python with pandas I normalized names, mapped every club onto one team key, and joined records on player id when it existed and on name plus team otherwise. College box scores needed a separate conversion: shot makes and attempts were season totals, while free throws and turnovers were stored as rates, so I turned them into the same per-game efficiency formula used for Korisliiga before estimating minutes and manager points. A Streamlit app compares prices, cup games, and past seasons on that shared table. The source code is not publicly available.
+
 
 #### Korisliiga Pickems App
 
