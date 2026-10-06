@@ -22,6 +22,13 @@ Worked on building and maintaining data pipelines and machine learning solutions
 
 ### Projects & Data Science
 
+#### AI portfolio agent
+
+[![View Live Demo](https://ai-portfolio-assistant-xsrr.onrender.com/)]
+[![View on GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-24292e?logo=github&logoColor=white)](https://github.com/tujokuus/ai-portfolio-assistant)
+
+I developed and deployed an AI-powered assistant that lets visitors explore my professional experience, education, and projects through a conversational interface. The application combines a Python and FastAPI backend with the OpenAI API and a lightweight HTML, CSS, and JavaScript frontend. It uses my CV and project README files as source material, providing answers with citations and access to the original documents. During development, I compared full-context prompting, local retrieval-augmented generation (RAG), and OpenAI File Search, evaluating answer quality, response times, and token usage. Based on these experiments, I selected full-context prompting for the initial application. I also implemented structured-output validation, citation checks, and request limits, and tested how the assistant handles missing information, unrelated questions, and requests to fabricate achievements.
+
 #### Air Strikes on Ukraine Analysis Dashboard
 
 [![Open Dashboard](https://img.shields.io/badge/Streamlit-Open%20Dashboard-ff4b4b?logo=streamlit&logoColor=white)](https://strikes-on-ukraine-analysis.streamlit.app/)
