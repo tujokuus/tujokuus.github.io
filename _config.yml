@@ -8,7 +8,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   </div>
   <div class="sidebar-copy">
   <p>I am finishing my Bachelor's degree and pursuing a Master's degree in Computer Science at the University of Jyvaskyla, with minor studies in Statistics and Mathematics.</p>
-  <p>I am currently a Machine Learning and Data Science Intern at Cense Analytics, with a focus on analytics, data engineering, and machine learning for soil measurement analysis.</p>
+  <p>I am currently a Junior Data Scientist at Cense Analytics, with a focus on analytics, data engineering, and machine learning for soil measurement analysis.</p>
   </div>
   
 remote_theme: pages-themes/minimal@v0.2.0
